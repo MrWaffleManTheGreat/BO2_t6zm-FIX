@@ -3,7 +3,8 @@
 
 Simply Put, this fixes the game so it can run the zombies or multiplayer mode.
 
-SUPPORTS PLUTONIUM
+SUPPORTS PLUTONIUM + VANNILLA GAME
+Modded versions probably work as well
 
 Note:
 This is pretty much just a forked version of a NucleusCoop  handler.
